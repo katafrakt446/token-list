@@ -184615,7 +184615,16 @@
       "tags": [
         "social-token"
       ]
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "3xgH8Si5HgmN8oxKYDiyeh7kK23T7QKhbAKbwUW2yV1M",
+      "symbol": "BLESH",
+      "name": "Blesh Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/katafrakt446/token-list/main/assets/mainnet/3xgH8Si5HgmN8oxKYDiyeh7kK23T7QKhbAKbwUW2yV1M/logo.png",
+      "tags": ["meme", "community"]
+     }
   ],
   "version": {
     "major": 0,
